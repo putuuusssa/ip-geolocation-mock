@@ -1,0 +1,1 @@
+def lookup(ip): return {'ip': ip, 'country': 'ID'}
